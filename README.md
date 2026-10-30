@@ -1,2 +1,2 @@
 # LabraFuel
-Nutritional Planner for Working Dog Labrador Retrievers
+Planner for Working Dog Labrador Retrievers
